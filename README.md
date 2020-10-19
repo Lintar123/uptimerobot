@@ -1,1 +1,1 @@
-# uptimerobot
+worker: node index.js
